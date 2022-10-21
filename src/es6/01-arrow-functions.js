@@ -12,3 +12,7 @@ const square1 = (num) => {
 }
   // with implicit return
 const square2 = num => num*num;
+
+console.log(square(2));
+console.log(square1(2));
+console.log(square2(2));

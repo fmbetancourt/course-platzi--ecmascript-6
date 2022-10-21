@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - main
+      - feature/platzi-3-nuevo-curso-de-ecmascri
   pull_request:
     types: [opened, synchronize, reopened]
 jobs:

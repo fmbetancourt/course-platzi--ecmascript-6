@@ -1,0 +1,23 @@
+{
+  "name": "ecmascript-6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fmbetancourt/course-platzi--ecmascript-6.git"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Freddy J Moreno B <freddy.moreno@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fmbetancourt/course-platzi--ecmascript-6/issues"
+  },
+  "homepage": "https://github.com/fmbetancourt/course-platzi--ecmascript-6#readme"
+}

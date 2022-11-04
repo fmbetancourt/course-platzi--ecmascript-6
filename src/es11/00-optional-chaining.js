@@ -1,14 +1,14 @@
 // *********************************** OPTIONAL CHAINING *********************************** //
 
 const users = {
-  fmbetancourt: {
+  fmbetancourt : {
     country: 'VE'
   },
-  rahydee: {
+  rahydee : {
     country: 'CL'
   }
 }
 
 console.log(users.fmbetancourt.country);
 // console.log(users.fmbetancourt.age);
-console.log(users.lucia?.country);
+console.log(users?.lucia?.country);

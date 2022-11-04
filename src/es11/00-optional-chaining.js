@@ -10,5 +10,5 @@ const users = {
 }
 
 console.log(users.fmbetancourt.country);
-console.log(users.fmbetancourt.age);
+// console.log(users.fmbetancourt.age);
 console.log(users?.lucia?.country);

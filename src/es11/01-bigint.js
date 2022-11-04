@@ -1,6 +1,7 @@
 // *********************************** BIGINT *********************************** //
 
-const aBigNumber = 1234567890123456789n;
-const anotherBigNumber = BigInt(1234567890123456789);
+const aBigNumber = 8907245920742093847n;
+const anotherBigNumber = BigInt(8907245920742093847);
+
 console.log(aBigNumber);
 console.log(anotherBigNumber);
